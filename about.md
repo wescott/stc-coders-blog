@@ -1,10 +1,10 @@
 ## About 
 
-I blog here.  This is a page that tells people about me.
+Blog and Resource Site for St. Charles Coders
 
 ## Contact Me
 
-You can put some contact information here
+michael dot wescott at gmail dot com
 
 [title: About]: /
 [order: 20]: /
